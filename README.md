@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fastoch
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning RegEx, HTML, CSS, JavaScript and Python
-- 💞️ I’m looking to collaborate on anything related to Web Development
+- 👋 Hi, I’m Fabrice Pustoch, aka "fastoch".
+- 👀 I’m interested in everything that is IT-related.
+- 🌱 I’m currently learning RegEx, HTML, CSS, JavaScript and Python.
+- 💞️ I also spend a lot of time studying Linux and Networking.
 - 📫 How to reach me and get to know me :   
 fastoch@ik.me | https://www.linkedin.com/in/fabrice-pustoc-h-8304b3150/ | https://fastoch.netlify.app/
 
