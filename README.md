@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fabrice Pustoch, aka "fastoch".
+- 👋 Hi! I’m Fabrice Pustoch, aka "Fastoch".
 - 👀 I’m interested in everything that is IT-related.
 - 🌱 I’m currently learning RegEx, HTML, CSS, JavaScript and Python.
 - 💞️ I also spend a lot of time studying Linux and Networking.
